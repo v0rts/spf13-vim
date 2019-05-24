@@ -1,13 +1,7 @@
 # spf30-vim : Steve Francia's Vim Distribution
 ## based on Steve Francia's spf13-vim Vim Distribution
 
-     _______..______    _______ ____     ___        ____    ____  __  .___  ___. 
-    /       ||   _  \  |   ____|___ \   / _ \       \   \  /   / |  | |   \/   | 
-   |   (----`|  |_)  | |  |__    __) | | | | |  _____\   \/   /  |  | |  \  /  | 
-    \   \    |   ___/  |   __|  |__ <  | | | | |______\      /   |  | |  |\/|  | 
-.----)   |   |  |      |  |     ___) | | |_| |         \    /    |  | |  |  |  | 
-|_______/    | _|      |__|    |____/   \___/           \__/     |__| |__|  |__| 
-                                                                                 
+                  
 spf30-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
 
 It is a good starting point for anyone intending to use VIM for development running equally well on Windows, Linux, \*nix and Mac.
