@@ -1,4 +1,4 @@
-# spf30-vim : Steve Francia's Vim Distribution
+# spf30-vim : Vim Distribution
 ## based on Steve Francia's spf13-vim Vim Distribution
 
                   
