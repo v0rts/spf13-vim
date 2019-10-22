@@ -1,13 +1,8 @@
-# spf13-vim : Steve Francia's Vim Distribution
+# spf30-vim : Vim Distribution
+## based on Steve Francia's spf13-vim Vim Distribution
 
-                    __ _ _____              _
-         ___ _ __  / _/ |___ /      __   __(_)_ __ ___
-        / __| '_ \| |_| | |_ \ _____\ \ / /| | '_ ` _ \
-        \__ \ |_) |  _| |___) |_____|\ V / | | | | | | |
-        |___/ .__/|_| |_|____/        \_/  |_|_| |_| |_|
-            |_|
-
-spf13-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
+                  
+spf30-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
 
 It is a good starting point for anyone intending to use VIM for development running equally well on Windows, Linux, \*nix and Mac.
 
@@ -27,19 +22,19 @@ To make all the plugins work, specifically [neocomplete](https://github.com/Shou
 
 ## Linux, \*nix, Mac OSX Installation
 
-The easiest way to install spf13-vim is to use our [automatic installer](https://j.mp/spf13-vim3) by simply copying and pasting the following line into a terminal. This will install spf13-vim and backup your existing vim configuration. If you are upgrading from a prior version (before 3.0) this is also the recommended installation.
+The easiest way to install spf13-vim is to use our [automatic installer](https://ozz.pw/spf-13) by simply copying and pasting the following line into a terminal. This will install spf13-vim and backup your existing vim configuration. If you are upgrading from a prior version (before 3.0) this is also the recommended installation.
 
 *Requires Git 1.7+ and Vim 7.3+*
 
 ```bash
 
-    curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
+    curl https://ozz.pw/spf-13 -L > spf13-vim.sh && sh spf13-vim.sh
 ```
 
 If you have a bash-compatible shell you can run the script directly:
 ```bash
 
-    sh <(curl https://j.mp/spf13-vim3 -L)
+    sh <(curl https://ozz.pw/spf-13 -L)
 ```
 
 ## Installing on Windows
@@ -112,7 +107,7 @@ The simpliest (and safest) way to update is to simply rerun the installer. It wi
 
 ```bash
 
-    curl https://j.mp/spf13-vim3 -L -o - | sh
+    curl https://ozz.pw/spf-13 -L -o - | sh
 
 ```
 
