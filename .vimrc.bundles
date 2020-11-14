@@ -88,7 +88,7 @@ call plug#begin('~/.vim/plugged')
 
     " General {
         if count(g:spf13_bundle_groups, 'general')
-            Plug 'scrooloose/nerdtree'
+            Plug 'preservim/nerdtree'
             Plug 'ryanoasis/vim-devicons'
             Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
             Plug 'liuchengxu/space-vim-dark'
